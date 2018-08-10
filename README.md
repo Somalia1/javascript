@@ -1,0 +1,1 @@
+this is javascript projects and some beginner staff
